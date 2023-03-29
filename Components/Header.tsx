@@ -1,9 +1,13 @@
 import { View, Text,StyleSheet } from 'react-native'
 import { ChatText } from 'phosphor-react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 
 
 
 const Header = () => {
+
+  const insets = useSafeAreaInsets();
+
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Recicle</Text>
@@ -17,12 +21,14 @@ const Header = () => {
 }
 
 
+
 const styles = StyleSheet.create({
     container: {
         width: '100%',
         flexDirection: 'row',
         alignItems: 'center',
         padding: 20,
+        marginTop: 0,
         justifyContent: 'space-between',
         backgroundColor: '#ffffff'
     },

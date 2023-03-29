@@ -70,7 +70,8 @@ const screenOptions = {
       margin:10,
       borderRadius:510,
     },
-    tabBarShowLabel: false
+    tabBarShowLabel: false,
+    headerShown: false
   };
 
 const styles = StyleSheet.create({

@@ -1,22 +1,20 @@
-import { createStackNavigator } from "@react-navigation/stack";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { NavigationContainer } from "@react-navigation/native";
-
 import BottomTabs from "./screens/Navigation/BottomTabs";
-
-import { useFonts } from "expo-font";
-
-
+import { StatusBar } from 'expo-status-bar';
+import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 
 
-const Stack = createStackNavigator();
 
 const App = () => {
 
   return (
-    <NavigationContainer>
+    <SafeAreaProvider>
+      <NavigationContainer>
       <BottomTabs />
+      <StatusBar translucent backgroundColor="green"/>
     </NavigationContainer>
+    </SafeAreaProvider>
+    
       
   );
 }

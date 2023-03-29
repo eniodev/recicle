@@ -1,9 +1,12 @@
-import { View, Text, StyleSheet } from 'react-native'
+import { View, Text, StyleSheet, SafeAreaView } from 'react-native'
 import { Header } from '../Components'
 
 const Home = () => {
   return (
-    <Header/>
+    <SafeAreaView>
+        <Header/>
+    </SafeAreaView>
+    
   )
 }
 
@@ -14,6 +17,6 @@ const style = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'red'
+        
     }
 })
