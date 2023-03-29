@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native'
 const Profile = () => {
   return (
     <View style={style.container}>
-      <Text>Profile</Text>
+      <Text>Profilee</Text>
     </View>
   )
 }

@@ -67,7 +67,7 @@ const screenOptions = {
     },
     tabBarItemStyle:{
       backgroundColor:'#D9D9D9',
-      margin:10,
+      margin:14,
       borderRadius:510,
     },
     tabBarShowLabel: false,
