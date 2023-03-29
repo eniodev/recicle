@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         alignItems: 'center'
     },
     banner: {
-        width: '90%',
+        width: '94%',
         height: 250,
         borderRadius: 8,
         backgroundColor: '#6AB891',
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         alignItems: 'center',
         flexDirection: 'row',
-        padding: 20,
+        padding: 17,
     },
     nearbyValue: {
         width: 60,
