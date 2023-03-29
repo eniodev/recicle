@@ -6,11 +6,6 @@ import {getAuth} from 'firebase/auth'
 import {getFirestore} from 'firebase/firestore'
 import { Export } from "phosphor-react-native";
 
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDv61UHNNdcsG5l9ayFwlIgsohlzZx2d0U",
   authDomain: "recicle-38ff3.firebaseapp.com",
@@ -21,9 +16,7 @@ const firebaseConfig = {
   measurementId: "G-M40BW7XKRM"
 };
 
-// Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
 
 export const FIREBASE_APP = initializeApp(firebaseConfig)
 export const FIREBASE_DB = getFirestore(FIREBASE_APP)

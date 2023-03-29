@@ -2,11 +2,9 @@ import { View, Text,StyleSheet } from 'react-native'
 import { ChatText } from 'phosphor-react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 
-
-
 const Header = () => {
 
-  const insets = useSafeAreaInsets();
+  const insets = useSafeAreaInsets(); // screen dimension setup
 
   return (
     <View style={styles.container}>
