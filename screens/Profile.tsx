@@ -76,18 +76,30 @@ const Settings = () => {
               </View>
             </View>
 
-            <View style={settingStyles.pickGender}>
-              <Text style={settingStyles.label}>Gender</Text>
+            <View style={settingStyles.pickRadio}>
+              <View style={settingStyles.pickRadioText}>
+                <Text style={settingStyles.label}>Radio</Text>
+                <Text style={settingStyles.radioValue}>30 km</Text>
+              </View>
+
+              
 
               <View style={settingStyles.radios}>
               <Slider
-                style={{width: '100%', height: 40}}
+                style={{width: '100%', height: 40, marginTop: 5}}
                 minimumValue={0}
                 maximumValue={1}
                 minimumTrackTintColor="#0567AD"
                 maximumTrackTintColor="#D9D9D9"
               />
             
+              </View>
+
+              <View style={settingStyles.infoArea}>
+                <Text style={settingStyles.info}>
+                  By choosing a specific radius, the app can detect who is
+                  selling or buying near your location. 
+                </Text>
               </View>
             </View>
 
@@ -193,6 +205,34 @@ const settingStyles = StyleSheet.create({
   },
   label: {
     fontWeight: '600'
+  },
+  pickRadio: {
+    marginTop: 25,
+    width: '100%',
+    height: 25,
+    justifyContent: 'space-between'
+  },
+  pickRadioText: {
+    width: '97%',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingLeft: 8
+  },
+  radioValue: {
+    fontSize: 12
+  },
+  infoArea: {
+    width: '97%',
+    marginTop: 10,
+    height: 40,
+    justifyContent: 'center',
+    alignItems: 'center'
+
+  },
+  info: {
+    color: '#999',
+    fontSize: 10
   }
   
 })
