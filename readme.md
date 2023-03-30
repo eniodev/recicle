@@ -122,18 +122,22 @@ Usage
     <img src="src_prototype/pick_up.png" alt="Image 1">
     <figcaption>Pick up</figcaption>
   </figure>
+  <br>
   <figure>
     <img src="src_prototype/for_you.png" alt="Image 2">
     <figcaption>For you</figcaption>
   </figure>
+  <br>
   <figure>
     <img src="src_prototype/profile.png" alt="Image 3">
     <figcaption>Profile</figcaption>
   </figure>
+  <br>
   <figure>
     <img src="src_prototype/contact_details.png" alt="Image 3">
     <figcaption>Contact Details</figcaption>
   </figure>
+  <br>
   <figure>
     <img src="src_prototype/edit_settings.png" alt="Image 3">
     <figcaption>Edit Settings</figcaption>
