@@ -42,6 +42,22 @@ Expected outcomes: By achieving these objectives, the sale of recyclable waste i
 
 Overall, the "Recicle" mobile app has the potential to promote sustainable waste management practices, increase economic opportunities, and have a positive impact on the environment and community in Angola.
 
+## Project category
+
+The "Recicle" mobile app project could potentially align with several of the United Nations' 17 Sustainable Development Goals (SDGs), but the most relevant one would be SDG 12: Responsible Consumption and Production.
+
+SDG 12 aims to promote sustainable consumption and production patterns, which includes reducing waste and increasing recycling rates. The "Recicle" app project directly addresses this goal by promoting sustainable waste management practices and providing a platform for users to buy and sell recyclable waste, thereby reducing waste and promoting resource efficiency.
+
+In addition to SDG 12, the "Recicle" app project could also align with other SDGs such as:
+
+- SDG 13: Climate Action, as reducing waste and promoting recycling can contribute to mitigating climate change.
+- SDG 11: Sustainable Cities and Communities, as promoting sustainable waste management practices can contribute to creating more sustainable and livable cities.
+- SDG 8: Decent Work and Economic Growth, as the app could create new economic opportunities for waste collectors and recyclers.
+- SDG 9: Industry, Innovation, and Infrastructure, as the app represents an innovative solution for sustainable waste management practices.
+
+Overall, the "Recicle" mobile app project could align with several SDGs, but SDG 12: Responsible Consumption and Production is the most relevant one.
+
+
 ## Future Extensions
 
 1. Expansion to other cities and regions: After successful implementation in one city or region, the app could be expanded to other areas within Angola, allowing more people to participate in sustainable waste management practices.
@@ -70,7 +86,8 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 > * [Recicle - GDSC Solution Challenge 2023](#recicle---gdsc-solution-challenge-2023)
 >   * [Synopsis](#synopsis)
 >   * [Problem statement](#problem-statement)
->   * [Outcomes](#outcomes)
+>   * [Project category](#project-category)
+>   * [Future extensions](#future-extensions)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
