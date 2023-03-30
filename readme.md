@@ -90,6 +90,7 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 >   * [Future extensions](#future-extensions)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
+>   * [Running the App](#running-the-app)
 >   * [Usage](#usage)
 >     * [Demo prototype](#demo-prototype)
 >     * [Screenshots](#screenshots)
@@ -99,6 +100,7 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 >     * [Build](#build)
 >     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
 >   * [License](#license)
+>   * [Contacts](#contacts)
 
 ## Installation
 
