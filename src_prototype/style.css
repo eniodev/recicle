@@ -7,6 +7,8 @@
   .gallery figure {
     margin: 10px;
     text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px; 
   }
   .gallery img {
     width: 300px;
