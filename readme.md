@@ -115,33 +115,14 @@ Usage
 
 <!-- Screenshots come here. -->
 
-<link rel="stylesheet" href="src_prototype/style.css">
+<div>
+  <img  align="right" alt="Pick up" width="20%" height="40%" src="src_prototype/pick_up.png"/>
+  <img  align="right" alt="For you" width="20%" height="40%" src="src_prototype/for_you.png"/>
+  <img  align="right" alt="Profile" width="20%" height="40%" src="src_prototype/profile.png"/>
+  <img  align="right" alt="Contact Details" width="20%" height="40%" src="src_prototype/contact_details.png"/>
+  <img  align="right" alt="Edit Settings" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
 
-<div class="gallery">
-  <figure>
-    <img src="src_prototype/pick_up.png" alt="Image 1">
-    <figcaption>Pick up</figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="src_prototype/for_you.png" alt="Image 2">
-    <figcaption>For you</figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="src_prototype/profile.png" alt="Image 3">
-    <figcaption>Profile</figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="src_prototype/contact_details.png" alt="Image 3">
-    <figcaption>Contact Details</figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="src_prototype/edit_settings.png" alt="Image 3">
-    <figcaption>Edit Settings</figcaption>
-  </figure>
+
 </div>
 
 <!-- Features come here.
