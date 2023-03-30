@@ -1,10 +1,12 @@
 import { View, Text, StyleSheet, ScrollView } from 'react-native'
-import { Broadcast } from 'phosphor-react-native'
-import React from 'react'
+import { Broadcast, Coins } from 'phosphor-react-native'
+import Collector from './Collector'
+
+
 
 const PickUp = () => {
   return (
-    <ScrollView style={styles.scrollView}>
+    <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
         <View style={styles.container}>
       <View style={styles.banner}>
 
@@ -18,8 +20,11 @@ const PickUp = () => {
         </View>
       </View>
 
-      <View>
-
+      <View style={styles.collectors}>
+        <Collector name={'Énio Carlos'} location={'Kilamba'} />
+        <Collector name={'Alfredo Martins'} location={'Budapeste'} />
+        <Collector name={'Lawrence Carter'} location={'New Orleans'} />
+        <Collector name={'Bill Serf'} location={'Orlando'} />
       </View>
     </View>
     </ScrollView>
@@ -31,11 +36,13 @@ const PickUp = () => {
 const styles = StyleSheet.create({
     scrollView: {
         paddingTop: 10,
+        backgroundColor: '#fff'
     },
     container: {
         flex: 1,
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
+        backgroundColor: '#fff'
     },
     banner: {
         width: '94%',
@@ -62,6 +69,9 @@ const styles = StyleSheet.create({
     nearbyTextValue: {
         color: '#157DC8',
         fontSize: 12
+    },
+    collectors: {
+        width: '100%',
     }
 })
 
