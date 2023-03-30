@@ -116,7 +116,7 @@ Usage
 <!-- Screenshots come here. -->
 
 <br>
-<div>
+<div style="position:relative; margin-bottom: 20px;">
     <div>
         <img  align="right" alt="Pick up" width="20%" height="40%" src="src_prototype/pick_up.png"/>
         <img  align="right" alt="For you" width="20%" height="40%" src="src_prototype/for_you.png"/>
