@@ -122,17 +122,10 @@ ___
 <div>
     <img  alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
     <img alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
-</div>
-
-<div>
     <img alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
     <img alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
-</div>
-
-<div>
     <img alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
 </div>
-
 
 <!-- Features come here.
 
