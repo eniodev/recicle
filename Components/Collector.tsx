@@ -2,6 +2,7 @@ import { User } from 'phosphor-react-native'
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 
 
+
 interface CollectorProps {
     name: string,
     location: string,

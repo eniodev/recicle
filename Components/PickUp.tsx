@@ -1,5 +1,6 @@
 import { View, Text, StyleSheet, ScrollView } from 'react-native'
 import { Broadcast, Coins } from 'phosphor-react-native'
+import TrashCan from '../assets/images/trash.svg'
 import Collector from './Collector'
 
 
@@ -9,6 +10,23 @@ const PickUp = () => {
     <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
         <View style={styles.container}>
       <View style={styles.banner}>
+        <View style={styles.bannerTop}>
+            <View style={styles.bannerText}>
+                <Text style={styles.bannerHeadline}>Earn <Text style={styles.moneyText}>Money</Text> For Discarted Trash</Text>
+                <Text style={styles.bannerStep}>1. Pick a trash station</Text>
+                <Text style={styles.bannerStep}>2. Drop off your trash</Text>
+                <Text style={styles.bannerStep}>3. Get paid for it</Text>
+            </View>
+            <TrashCan style={styles.trashCan}/>
+        </View>
+
+        <View style={styles.bannerBottom}>
+            <View style={styles.bannerBottomText}>
+                <Text style={styles.bannerBottomHeadline}>Waste Delivery</Text>
+                <Text style={styles.bannerBottomCTA}>Find a pick up station and sell</Text>
+            </View>
+            <Coins color='#242424' size={46} />
+        </View>
 
       </View>
 
@@ -46,9 +64,63 @@ const styles = StyleSheet.create({
     },
     banner: {
         width: '94%',
-        height: 250,
+        height: 265,
         borderRadius: 8,
         backgroundColor: '#6AB891',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    bannerTop: {
+        width: '100%',
+        flexDirection: 'row',
+        justifyContent: 'space-around',
+        alignItems: 'center',
+        padding: 20,
+        paddingTop: 5,
+    },
+    trashCan: {
+        transform: [{rotate : '2deg'}]
+    },
+    bannerText: {
+        width: 200,
+        height: 140,
+        justifyContent: 'space-between'
+    },
+    bannerHeadline: {
+        fontSize: 24,
+        fontWeight: '800',
+        color: '#fff'  
+    },
+    moneyText: {
+        color: '#FFE96B'
+    },
+    bannerStep: {
+        color: '#fff',
+        fontWeight: '500'
+    },
+    bannerBottom: {
+        width: '95%',
+        padding: 24,
+        paddingVertical: 15,
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        backgroundColor: '#fff',
+        borderRadius: 8
+        
+    },
+    bannerBottomText: {
+        height: 40,
+        justifyContent: 'space-between'
+    },
+    bannerBottomHeadline: {
+        fontSize: 14,
+        fontWeight: '800',
+        color: '#37B978'
+    },
+    bannerBottomCTA: {
+        fontSize: 12,
+        color: '#6F6F6F'
     },
     nearby: {
         width: '100%',
