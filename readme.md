@@ -115,6 +115,59 @@ Usage
 
 <!-- Screenshots come here. -->
 
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .gallery figure {
+    margin: 10px;
+    text-align: center;
+  }
+  .gallery img {
+    width: 300px;
+    height: 250;
+    object-fit: contain;
+  }
+  .gallery figcaption {
+    font-style: italic;
+    margin-top: 5px;
+  }
+</style>
+
+<div class="gallery">
+  <figure>
+    <img src="src_prototype/pick_up.png" alt="Image 1">
+    <figcaption>Pick up</figcaption>
+  </figure>
+  <figure>
+    <img src="src_prototype/for_you.png" alt="Image 2">
+    <figcaption>For you</figcaption>
+  </figure>
+  <figure>
+    <img src="src_prototype/profile.png" alt="Image 3">
+    <figcaption>Profile</figcaption>
+  </figure>
+  <figure>
+    <img src="src_prototype/contact_details.png" alt="Image 3">
+    <figcaption>Contact Details</figcaption>
+  </figure>
+  <figure>
+    <img src="src_prototype/edit_settings.png" alt="Image 3">
+    <figcaption>Edit Settings</figcaption>
+  </figure>
+</div>
+
+<!-- Features come here.
+
+![Pick Up](src_prototype/pick_up.png)
+![For You](src_prototype/for_you.png)
+![Profile](src_prototype/profile.png)
+![Contact Details](src_prototype/contact_details.png)
+![Edit Settings](src_prototype/edit_settings.png)
+ -->
 
 ## Features
 
