@@ -105,9 +105,9 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 ## Installation
 
 Usage
-========
-
-## Demo Prototype___
+___
+## Demo Prototype
+___
 
 <!-- Demo prototype comes here. -->
 
@@ -119,17 +119,18 @@ ___
 
 <!-- Screenshots come here. -->
 
-
 <div>
-        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
-        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
-        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
-
+    <img  alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
 </div>
 
 <div>
-        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
-        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
+</div>
+
+<div>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
 </div>
 
 
