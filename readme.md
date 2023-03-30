@@ -3,6 +3,36 @@
 ## Synopsis
 This project was prepared to solve a local problem using Google technologies, in accordance with one or more of the United Nations 17 Sustainable Development Goals.
 
+## Problem statement
+
+Background: Angola, like many other countries around the world, is facing challenges in effectively managing and disposing of waste. The improper disposal of waste, particularly plastic waste, has led to severe environmental degradation, including polluted rivers and seas, contaminated soil, and increased greenhouse gas emissions. Recycling is an effective way to mitigate these negative impacts, but Angola currently faces obstacles in promoting the sale of recyclable waste.
+
+Problem: The problem is that there is a lack of awareness and access to appropriate waste management practices, resulting in low levels of recycling and the inadequate sale of recyclable waste in Angola. Specifically, the following issues have been identified:
+
+- Lack of knowledge: Many people in Angola are unaware of the importance of recycling and the proper way to organize and dispose of recyclable waste. As a result, they often mix recyclable and non-recyclable waste, which makes it difficult for recyclers to sort and process the waste effectively.
+
+- Inefficient collection: There is a lack of readily available locations containing recyclable waste, which makes it difficult for recyclers to collect and transport the waste efficiently. This leads to higher transportation costs and lower profitability for waste buyers.
+
+- Inadequate waste collection points: Waste collection points are not easily accessible to waste buyers, making it challenging for them to purchase recyclable waste. This is particularly true in rural areas where the nearest collection point may be far away.
+
+- Limited payment options: There are few safe and convenient payment options available for waste buyers, which can be a significant barrier to purchasing recyclable waste. This is particularly true for small-scale waste buyers who may not have access to traditional banking services.
+
+- Lack of regular supply: Waste buyers often struggle to find a regular and predictable supply of recyclable waste, making it difficult for them to plan and maintain their business operations.
+
+Objectives: To address these issues, the following specific objectives have been identified:
+
+- Increase awareness and improve waste management practices by educating the public on the importance of recycling and the proper way to organize and dispose of recyclable waste.
+
+- Identify and map locations containing recyclable waste to allow for more efficient collection and transportation.
+
+- Inform the public about the main waste collection points and make them easily accessible to waste buyers.
+
+- Provide safe and convenient payment options for waste buyers, including payment by reference (MSEXPRESS).
+
+- Facilitate the regular and predictable purchase of recyclable waste by allowing for a monthly subscription service for waste buyers.
+
+Expected outcomes: By achieving these objectives, the sale of recyclable waste in Angola is expected to increase, leading to a more sustainable and environmentally conscious society. In addition, the increased demand for recyclable waste is expected to create new economic opportunities for waste collectors and buyers, particularly small-scale businesses in rural areas. Furthermore, the improved waste management practices are expected to reduce environmental degradation and promote a cleaner and healthier environment for all Angolans.
+
 ### General target
 - To boost the sale of recyclable waste in Angola.
 
@@ -20,6 +50,7 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 
 > * [Recicle - GDSC Solution Challenge 2023](#recicle---gdsc-solution-challenge-2023)
 >   * [Synopsis](#synopsis)
+>   * [Problem statement](#problem-statement)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
