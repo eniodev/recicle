@@ -57,8 +57,7 @@ const Settings = () => {
               style={settingStyles.textInput}/>
 
             <TextInput 
-              editable 
-              autoFocus
+              editable
               placeholder='Age in Years'
               style={settingStyles.textInput}/>
             </View>

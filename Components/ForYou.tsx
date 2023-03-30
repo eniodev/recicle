@@ -1,10 +1,11 @@
 import { View, Text, StyleSheet } from 'react-native'
+import Post  from './Post'
 
 
 const ForYou = () => {
   return (
     <View style={styles.container}>
-      <Text>ForYou</Text>
+      <Post />
     </View>
   )
 }
