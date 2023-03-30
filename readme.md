@@ -3,7 +3,67 @@
 ## Synopsis
 This project was prepared to solve a local problem using Google technologies, in accordance with one or more of the United Nations 17 Sustainable Development Goals.
 
+## What are the United Nations 17 Sustainable Development Goals?
+Created by the United Nations in 2015, with support from all 193 United Nations Member States, the 17 Sustainable Development Goals aim to end poverty, ensure prosperity, and protect the planet.
+
+## Table of contents
+
+> * [Recicle - GDSC Solution Challenge 2023](#recicle---gdsc-solution-challenge-2023)
+>   * [Synopsis](#synopsis)
+>   * [Usage](#usage)
+>     * [Demo prototype](#demo-prototype)
+>     * [Screenshots](#screenshots)
+>     * [Problem statement](#problem-statement)
+>     * [Project category](#project-category)
+>     * [Future extensions](#future-extensions)
+>     * [Table of contents](#table-of-contents)
+>     * [Installation](#installation)
+>     * [Running the App](#running-the-app)
+>     * [Features](#features)
+>     * [Content](#content)
+>     * [Requirements](#requirements)
+>     * [Build](#build)
+>     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
+>   * [License](#license)
+>   * [Contacts](#contacts)
+
+## Installation
+
+## Usage
+___
+
+## Demo Prototype
+___
+
+<!-- Demo prototype comes here. -->
+
+
+
+## Screenshots
+___
+
+
+<!-- Screenshots come here. -->
+
+<div>
+    <img  alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
+    <img alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
+</div>
+
+<!-- Features come here.
+
+![Pick Up](src_prototype/pick_up.png)
+![For You](src_prototype/for_you.png)
+![Profile](src_prototype/profile.png)
+![Contact Details](src_prototype/contact_details.png)
+![Edit Settings](src_prototype/edit_settings.png)
+ -->
+
 ## Problem statement
+___
 
 Background: Angola, like many other countries around the world, is facing challenges in effectively managing and disposing of waste. The improper disposal of waste, particularly plastic waste, has led to severe environmental degradation, including polluted rivers and seas, contaminated soil, and increased greenhouse gas emissions. Recycling is an effective way to mitigate these negative impacts, but Angola currently faces obstacles in promoting the sale of recyclable waste.
 
@@ -78,63 +138,6 @@ Overall, the future extensions of the "Recicle" mobile app could involve collabo
 - Enable payments by reference (MSEXPRESS).
 - Allow for a monthly subscription for waste buyers.
 
-## What are the United Nations 17 Sustainable Development Goals?
-Created by the United Nations in 2015, with support from all 193 United Nations Member States, the 17 Sustainable Development Goals aim to end poverty, ensure prosperity, and protect the planet.
-
-## Table of contents
-
-> * [Recicle - GDSC Solution Challenge 2023](#recicle---gdsc-solution-challenge-2023)
->   * [Synopsis](#synopsis)
->   * [Problem statement](#problem-statement)
->   * [Project category](#project-category)
->   * [Future extensions](#future-extensions)
->   * [Table of contents](#table-of-contents)
->   * [Installation](#installation)
->   * [Running the App](#running-the-app)
->   * [Usage](#usage)
->     * [Demo prototype](#demo-prototype)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
->     * [Content](#content)
->     * [Requirements](#requirements)
->     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [License](#license)
->   * [Contacts](#contacts)
-
-## Installation
-
-Usage
-___
-## Demo Prototype
-___
-
-<!-- Demo prototype comes here. -->
-
-
-
-## Screenshots
-___
-
-
-<!-- Screenshots come here. -->
-
-<div>
-    <img  alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
-    <img alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
-    <img alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
-    <img alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
-    <img alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
-</div>
-
-<!-- Features come here.
-
-![Pick Up](src_prototype/pick_up.png)
-![For You](src_prototype/for_you.png)
-![Profile](src_prototype/profile.png)
-![Contact Details](src_prototype/contact_details.png)
-![Edit Settings](src_prototype/edit_settings.png)
- -->
 
 
 ## Features
