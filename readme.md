@@ -115,27 +115,7 @@ Usage
 
 <!-- Screenshots come here. -->
 
-<style>
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-  }
-  .gallery figure {
-    margin: 10px;
-    text-align: center;
-  }
-  .gallery img {
-    width: 300px;
-    height: 250;
-    object-fit: contain;
-  }
-  .gallery figcaption {
-    font-style: italic;
-    margin-top: 5px;
-  }
-</style>
+<link rel="stylesheet" href="src_prototype/style.css">
 
 <div class="gallery">
   <figure>
