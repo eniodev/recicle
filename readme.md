@@ -33,7 +33,26 @@ Objectives: To address these issues, the following specific objectives have been
 
 Expected outcomes: By achieving these objectives, the sale of recyclable waste in Angola is expected to increase, leading to a more sustainable and environmentally conscious society. In addition, the increased demand for recyclable waste is expected to create new economic opportunities for waste collectors and buyers, particularly small-scale businesses in rural areas. Furthermore, the improved waste management practices are expected to reduce environmental degradation and promote a cleaner and healthier environment for all Angolans.
 
-### General target
+## Problem statement
+1. Increased Awareness: The app can be used to educate the public on the importance of recycling and the proper way to dispose of recyclable waste. This could lead to an increase in the amount of recyclable waste collected, as more people become aware of the environmental and economic benefits of recycling.
+2. Improved Waste Management: The app can help identify locations containing recyclable waste and inform the public about the nearest waste collection points. This could lead to a more efficient and organized waste management system, reducing the amount of waste that ends up in landfills and increasing the amount of recyclable waste that is collected and processed.
+3. Increased Sales: The app can enable payments by reference (MSEXPRESS) and allow for a monthly subscription service for waste buyers. This could increase the number of waste buyers, as it provides a convenient and secure payment method and a reliable supply of recyclable waste. This could lead to an increase in the sale of recyclable waste, creating new economic opportunities for waste collectors and buyers.
+4. Positive Environmental Impact: The increased collection and processing of recyclable waste could lead to a reduction in environmental degradation, including reduced pollution of rivers and seas and decreased greenhouse gas emissions. This could improve the overall health and well-being of the community.
+5. Job Creation: The increased demand for recyclable waste could lead to the creation of new jobs, particularly for waste collectors and buyers. This could contribute to the growth of the economy and provide new opportunities for entrepreneurship.
+
+Overall, the "Recicle" mobile app has the potential to promote sustainable waste management practices, increase economic opportunities, and have a positive impact on the environment and community in Angola.
+
+## Future Extensions
+
+1. Expansion to other cities and regions: After successful implementation in one city or region, the app could be expanded to other areas within Angola, allowing more people to participate in sustainable waste management practices.
+2. Integration with other waste management systems: The app could be integrated with existing waste management systems, such as municipal waste collection services, to provide a more comprehensive and efficient waste management solution.
+3. Collaboration with schools and community groups: The app could be used to educate students and community groups on sustainable waste management practices, creating a culture of recycling and responsible waste disposal.
+4. Integration with other sustainability initiatives: The app could be integrated with other sustainability initiatives, such as renewable energy or water conservation projects, to promote a holistic approach to environmental sustainability.
+5. Partnership with local businesses: The app could be partnered with local businesses, such as restaurants and hotels, to promote responsible waste disposal practices and encourage the adoption of sustainable business practices.
+
+Overall, the future extensions of the "Recicle" mobile app could involve collaboration with various stakeholders, integration with other waste management systems and sustainability initiatives, and expansion to other regions within Angola. By taking these steps, the team could continue to promote sustainable waste management practices and have a broader impact on the environment and community in Angola.
+
+### Main Goal
 - To boost the sale of recyclable waste in Angola.
 
 ### Specific Objectives
@@ -51,6 +70,7 @@ Created by the United Nations in 2015, with support from all 193 United Nations 
 > * [Recicle - GDSC Solution Challenge 2023](#recicle---gdsc-solution-challenge-2023)
 >   * [Synopsis](#synopsis)
 >   * [Problem statement](#problem-statement)
+>   * [Outcomes](#outcomes)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
