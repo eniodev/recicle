@@ -27,13 +27,13 @@ Objectives: To address these issues, the following specific objectives have been
 
 - Inform the public about the main waste collection points and make them easily accessible to waste buyers.
 
-- Provide safe and convenient payment options for waste buyers, including payment by reference (MSEXPRESS).
+<!-- >- Provide safe and convenient payment options for waste buyers, including payment by reference (MSEXPRESS). -->
 
-- Facilitate the regular and predictable purchase of recyclable waste by allowing for a monthly subscription service for waste buyers.
+<!-- >- Facilitate the regular and predictable purchase of recyclable waste by allowing for a monthly subscription service for waste buyers. -->
 
 Expected outcomes: By achieving these objectives, the sale of recyclable waste in Angola is expected to increase, leading to a more sustainable and environmentally conscious society. In addition, the increased demand for recyclable waste is expected to create new economic opportunities for waste collectors and buyers, particularly small-scale businesses in rural areas. Furthermore, the improved waste management practices are expected to reduce environmental degradation and promote a cleaner and healthier environment for all Angolans.
 
-## Problem statement
+## Outcomes
 1. Increased Awareness: The app can be used to educate the public on the importance of recycling and the proper way to dispose of recyclable waste. This could lead to an increase in the amount of recyclable waste collected, as more people become aware of the environmental and economic benefits of recycling.
 2. Improved Waste Management: The app can help identify locations containing recyclable waste and inform the public about the nearest waste collection points. This could lead to a more efficient and organized waste management system, reducing the amount of waste that ends up in landfills and increasing the amount of recyclable waste that is collected and processed.
 3. Increased Sales: The app can enable payments by reference (MSEXPRESS) and allow for a monthly subscription service for waste buyers. This could increase the number of waste buyers, as it provides a convenient and secure payment method and a reliable supply of recyclable waste. This could lead to an increase in the sale of recyclable waste, creating new economic opportunities for waste collectors and buyers.
