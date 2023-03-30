@@ -117,11 +117,19 @@ Usage
 
 <br>
 <div>
-  <img  align="right" alt="Pick up" width="20%" height="40%" src="src_prototype/pick_up.png"/>
-  <img  align="right" alt="For you" width="20%" height="40%" src="src_prototype/for_you.png"/>
-  <img  align="right" alt="Profile" width="20%" height="40%" src="src_prototype/profile.png"/>
-  <img  align="right" alt="Contact Details" width="20%" height="40%" src="src_prototype/contact_details.png"/>
-  <img  align="right" alt="Edit Settings" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
+    <div>
+        <img  align="right" alt="Pick up" width="20%" height="40%" src="src_prototype/pick_up.png"/>
+        <img  align="right" alt="For you" width="20%" height="40%" src="src_prototype/for_you.png"/>
+    </div>
+
+  <div>
+        <img  align="right" alt="Profile" width="20%" height="40%" src="src_prototype/profile.png"/>
+        <img  align="right" alt="Contact Details" width="20%" height="40%" src="src_prototype/contact_details.png"/>
+  </div>
+
+  <div>
+        <img  align="right" alt="Edit Settings" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
+  </div>
 </div>
 <br>
 
