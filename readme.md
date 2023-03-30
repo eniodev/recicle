@@ -109,29 +109,26 @@ Usage
 
 ## Demo Prototype
 <!-- Demo prototype comes here. -->
+===
 
 
 ## Screenshots
+===
 
 <!-- Screenshots come here. -->
 
-<br>
-<div style="position:relative; margin-bottom: 20px;">
-    <div>
-        <img  align="right" alt="Pick up" width="20%" height="40%" src="src_prototype/pick_up.png"/>
-        <img  align="right" alt="For you" width="20%" height="40%" src="src_prototype/for_you.png"/>
-    </div>
 
-  <div>
-        <img  align="right" alt="Profile" width="20%" height="40%" src="src_prototype/profile.png"/>
-        <img  align="right" alt="Contact Details" width="20%" height="40%" src="src_prototype/contact_details.png"/>
-  </div>
-
-  <div>
-        <img  align="right" alt="Edit Settings" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
-  </div>
+<div>
+        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/pick_up.png"/>
+    <br>
+        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/for_you.png"/>
+    <br>
+        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/profile.png"/>
+    <br>
+        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/contact_details.png"/>
+    <br>
+        <img  align="right" alt="GIF" width="20%" height="40%" src="src_prototype/edit_settings.png"/>
 </div>
-<br>
 
 
 <!-- Features come here.
@@ -144,15 +141,18 @@ Usage
  -->
 
 ## Features
+===
 
 <!-- Features come here. -->
 
 
 ## Contents
+===
 
 <!-- Contents come here. -->
 
 ## Challenge Description
+===
 [Google Solution Challenge 2023](https://developers.google.com/community/gdsc-solution-challenge)
 
 A remarkable opportunity for students to showcase their innovation and creativity in building solutions that address real-world problems using technology, the Google Solution Challenge is an initiative organized by Google Developers and the Google Developer Student Clubs (GDSC) program to encourage students from around the world to work in teams and solve some of the most pressing challenges of our time. The challenge provides a platform for students to showcase their technical skills, collaborate with their peers, and make a positive impact in their communities.
@@ -168,6 +168,7 @@ The Google Solution Challenge 2023 is not just a competition; it's an opportunit
 In summary, It is highly recommend that students take part in the Google Solution Challenge 2023. It's an incredible opportunity to showcase their skills and creativity, learn from industry experts, and make a positive impact on the world. Let's celebrate and appreciate this initiative that will undoubtedly help in shaping a better future.
 
 ## License
+===
 MIT License
 
 Copyright (c) 2023, Énio Paulo & Alfredo Martins | Recicle - GDSC Solution Challenge 2023
