@@ -1,15 +1,16 @@
-import { User } from 'phosphor-react-native'
+import { Tag, User } from 'phosphor-react-native'
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 
-
+type tag = "plastic" | "metal" | "everything";
 
 interface CollectorProps {
     name: string,
     location: string,
-    profilePicture?: string
+    profilePicture?: string,
+    collecting: tag
 }
 
-const Collector = ({name, location, profilePicture}: CollectorProps) => {
+const Collector = ({name, location, profilePicture, collecting}: CollectorProps) => {
 
     
 
@@ -23,7 +24,8 @@ const Collector = ({name, location, profilePicture}: CollectorProps) => {
 
                 <View style={styles.collectorTextInfo}>
                     <Text style={styles.collectorName}>{name}</Text>
-                    <Text style={styles.collectorLocation}>{location}</Text>
+                    <Text style={styles.collectorLocation}>
+                        {location} • {collecting}</Text>
                 </View>
             </View>
 
@@ -40,7 +42,7 @@ const Collector = ({name, location, profilePicture}: CollectorProps) => {
 const styles = StyleSheet.create({
     container: {
         width: '100%',
-        padding: 17,
+        padding: 10,
         paddingTop: 0,
         flexDirection: 'row',
         alignItems: 'center',
@@ -72,8 +74,8 @@ const styles = StyleSheet.create({
     callCollecor: {
         justifyContent: 'center',
         alignItems:'center',
-        backgroundColor: 'rgba(217,217,217, 0.3)',
-       marginRight: -5,
+        backgroundColor: '#FFC4CA',
+      
         width: 50,
         height: 40,
         paddingRight: 0,

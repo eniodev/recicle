@@ -39,10 +39,10 @@ const PickUp = () => {
       </View>
 
       <View style={styles.collectors}>
-        <Collector name={'Énio Carlos'} location={'Kilamba'} />
-        <Collector name={'Alfredo Martins'} location={'Budapeste'} />
-        <Collector name={'Lawrence Carter'} location={'New Orleans'} />
-        <Collector name={'Bill Serf'} location={'Orlando'} />
+        <Collector name={'Énio Carlos'} location={'Kilamba'} collecting={'plastic'}/>
+        <Collector name={'Alfredo Martins'} location={'Budapeste'} collecting={'metal'}/>
+        <Collector name={'Lawrence Carter'} location={'Zango'} collecting={'plastic'}/>
+        <Collector name={'Bill Serf'} location={'Martires'} collecting={'everything'}/>
       </View>
     </View>
     </ScrollView>
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
         width: '94%',
         height: 265,
         borderRadius: 8,
-        backgroundColor: '#6AB891',
+        backgroundColor: '#4DA67F',
         justifyContent: 'center',
         alignItems: 'center',
     },
@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     bannerBottomHeadline: {
         fontSize: 14,
         fontWeight: '800',
-        color: '#37B978'
+        color: '#4DA67F'
     },
     bannerBottomCTA: {
         fontSize: 12,
