@@ -1,6 +1,5 @@
 import { User } from 'phosphor-react-native'
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
-import { useNavigation } from '@react-navigation/native'
 
 
 interface CollectorProps {
@@ -11,7 +10,7 @@ interface CollectorProps {
 
 const Collector = ({name, location, profilePicture}: CollectorProps) => {
 
-    const navigation = useNavigation();
+    
 
     return (
         <View style={styles.container}>
