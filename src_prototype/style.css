@@ -11,8 +11,8 @@
     padding: 10px; 
   }
   .gallery img {
-    width: 300px;
-    height: 250;
+    width: 150;
+    height: 125;
     object-fit: contain;
   }
   .gallery figcaption {
