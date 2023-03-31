@@ -65,7 +65,7 @@ ___
 ## Problem statement
 ___
 
-Background: Angola, like many other countries around the world, is facing challenges in effectively managing and disposing of waste. The improper disposal of waste, particularly plastic waste, has led to severe environmental degradation, including polluted rivers and seas, contaminated soil, and increased greenhouse gas emissions. Recycling is an effective way to mitigate these negative impacts, but Angola currently faces obstacles in promoting the sale of recyclable waste.
+Background: Luanda was already ranked as one of the dirtiest cities in Africa in 2019, according to World Health Organization (WHO), the amount of waste is still increasing day by day and this is harming the health of citizens.  After conducting research, it was found that about 10% of the population rely on the sale of waste as a means of livelihood. Based on that, knowing that most this waste can be recycled, in order to contribute to the quality of life and stimulate the sale of waste in Luanda, as there are significant challenges in promoting the sale of recyclable materials, we decided to create "Recycle".
 
 Problem: The problem is that there is a lack of awareness and access to appropriate waste management practices, resulting in low levels of recycling and the inadequate sale of recyclable waste in Angola. Specifically, the following issues have been identified:
 
